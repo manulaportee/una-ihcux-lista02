@@ -1,6 +1,4 @@
 # una-ihcux-lista02
-Repositório com as atividades da Lista 2 de IHCUX - Daniel
-
 # 🚀 Minha Primeira Experiência com .NET CLI
 
 Nesta missão, deixei de ser apenas um usuário de pastas e me tornei um desenvolvedor que fala a língua do SDK.
